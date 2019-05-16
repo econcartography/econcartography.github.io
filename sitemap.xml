@@ -3,88 +3,88 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://econcartography.eu/author/somrat/</loc>
+    <loc>http://econcartography.github.io/author/somrat/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://econcartography.eu/author/</loc>
-    <lastmod>2018-09-12T14:39:16+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://econcartography.eu/blog/</loc>
+    <loc>http://econcartography.github.io/author/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://econcartography.eu/</loc>
+    <loc>http://econcartography.github.io/blog/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://econcartography.eu/blog/simple-post-title/</loc>
+    <loc>http://econcartography.github.io/</loc>
+    <lastmod>2018-09-12T14:39:16+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://econcartography.github.io/blog/simple-post-title/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://econcartography.eu/author/jamica-jock/</loc>
+    <loc>http://econcartography.github.io/author/jamica-jock/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://econcartography.eu/blog/simple-image-post/</loc>
+    <loc>http://econcartography.github.io/blog/simple-image-post/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://econcartography.eu/author/john-doe/</loc>
+    <loc>http://econcartography.github.io/author/john-doe/</loc>
   </url>
   
   <url>
-    <loc>http://econcartography.eu/categories/</loc>
+    <loc>http://econcartography.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://econcartography.eu/blog/installation/</loc>
+    <loc>http://econcartography.github.io/blog/installation/</loc>
   </url>
   
   <url>
-    <loc>http://econcartography.eu/tags/</loc>
+    <loc>http://econcartography.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://econcartography.eu/author/themefisher/</loc>
+    <loc>http://econcartography.github.io/author/themefisher/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://econcartography.eu/tags/golang/</loc>
+    <loc>http://econcartography.github.io/tags/golang/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://econcartography.eu/tags/hugo/</loc>
+    <loc>http://econcartography.github.io/tags/hugo/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://econcartography.eu/tags/programming/</loc>
+    <loc>http://econcartography.github.io/tags/programming/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://econcartography.eu/categories/starting/</loc>
+    <loc>http://econcartography.github.io/categories/starting/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://econcartography.eu/tags/theme/</loc>
+    <loc>http://econcartography.github.io/tags/theme/</loc>
     <priority>0</priority>
   </url>
   

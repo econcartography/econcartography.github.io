@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>hugo on EconCartography</title>
     <link>/tags/hugo/</link>
     <description>Recent content in hugo on EconCartography</description>
+=======
+    <title>hugo on Meghna</title>
+    <link>http://econcartography.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on Meghna</description>
+>>>>>>> 9b7715bc826966dc5e8dac73d9481f42311c710b
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     

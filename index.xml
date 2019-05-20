@@ -6,18 +6,18 @@
     <description>Recent content on EconCartography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2018 14:39:16 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Simple Post Title</title>
-      <link>/blog/simple-post-title/</link>
-      <pubDate>Wed, 12 Sep 2018 14:39:16 +0600</pubDate>
+      <title>Robustness</title>
+      <link>/explore/multilayer/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>/blog/simple-post-title/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+      <guid>/explore/multilayer/</guid>
+      <description>Are you diversified enough? Pumping the export of a single product will not help increase the competitiveness of your country if you don&amp;rsquo;t care about diversification.</description>
     </item>
     
     <item>
@@ -30,11 +30,38 @@
     </item>
     
     <item>
+      <title>Explore Growth Opportunities</title>
+      <link>/blog/explore-growth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/explore-growth/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Explore. Undestand. Grow.</title>
+      <link>/explore/growth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/explore/growth/</guid>
+      <description>Why are we caring about International Trade (and we think you should do the same)?</description>
+    </item>
+    
+    <item>
       <title>How To Setup Meghna Hugo</title>
       <link>/blog/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/blog/installation/</guid>
+      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
+    </item>
+    
+    <item>
+      <title>How To Setup Meghna Hugo</title>
+      <link>/explore/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/explore/installation/</guid>
       <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
     </item>
     

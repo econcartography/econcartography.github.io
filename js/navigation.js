@@ -6,9 +6,9 @@
 $(document).ready(function(){
   $(window).on('scroll',function(){
     // we round here to reduce a little workload
-    var exploretop = $('#explore').offset().top;
-    var blogtop = $('#blog').offset().top;
-    var gittop = $('#contact-us').offset().top;
+    var exploretop = $('#explore').offset().top-25;
+    var blogtop = $('#blog').offset().top-25;
+    var gittop = $('#contact-us').offset().top-90;
     stop = Math.round($(window).scrollTop());
     if (stop > exploretop) {
       $('.navigation').addClass('explore-color');

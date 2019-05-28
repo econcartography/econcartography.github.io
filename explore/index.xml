@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Explore. Understand. Grow.</title>
+      <link>/explore/competitiveness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/explore/competitiveness/</guid>
+      <description>What is the most profitable context for a new export activity?</description>
+    </item>
+    
+    <item>
       <title>Robustness</title>
       <link>/explore/diversification/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
@@ -27,15 +36,6 @@
       
       <guid>/explore/swift/</guid>
       <description>Fallback link for browsers that don&amp;rsquo;t support iframes</description>
-    </item>
-    
-    <item>
-      <title>Explore. Understand. Grow.</title>
-      <link>/explore/competitiveness/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/explore/competitiveness/</guid>
-      <description>What is the most profitable context for a new export activity?</description>
     </item>
     
   </channel>

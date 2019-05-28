@@ -11,21 +11,21 @@
     
     
     <item>
-      <title>How To Setup Meghna Hugo</title>
-      <link>/blog/installation/</link>
+      <title>FNA</title>
+      <link>/blog/fna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/blog/installation/</guid>
+      <guid>/blog/fna/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How To Setup Meghna Hugo</title>
-      <link>/explore/installation/</link>
+      <title>Fitness</title>
+      <link>/blog/fitness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/explore/installation/</guid>
-      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
+      <guid>/blog/fitness/</guid>
+      <description></description>
     </item>
     
   </channel>

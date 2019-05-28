@@ -11,6 +11,9 @@
   	gtag('config', 'UA-140486237-1');
 	</script>
 
+    <script src="/js/jquery-3.4.1.js"></script>
+    <script src="/js/navigation.js"></script>
+
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="Responsive Multipurpose Parallax HTML5 Template">
     <meta name="author" content="Themefisher">
@@ -81,14 +84,14 @@
 
     
 <!-- Welcome Slider-->
-<section class="hero-area" style='background-image: url("/images/backgrounds/unione_europea.jpg");'>
+<section class="hero-area" style='background-image: url("/images/backgrounds/unione_europea.jpg");' id="hero">
     <div class="block">
         
         <h1>EconCartography</h1>
         <p>Data Visualizations for a Better EU</p> 
        
         <a data-scroll href="#about" class="btn btn-transparent">Discover Us</a>
-        
+       
     </div>
 </section>
 <!-- /Welcome Slider-->
@@ -124,8 +127,6 @@
                                 
                                 <li class="nav-item"><a class="nav-link" data-scroll href="#blog">Blog</a></li>
                                 
-                                <li class="nav-item"><a class="nav-link" data-scroll href="#our-team">Team</a></li>
-                                
                                 <li class="nav-item"><a class="nav-link" data-scroll href="#contact-us">Contact</a></li>
                                 
                         </ul>
@@ -146,11 +147,28 @@
             <div class="col-lg-12">
                 <!-- section title -->
                 <div class="title text-center wow fadeIn" data-wow-duration="1500ms">
-                    <h2>About Us <span class="color"></span> </h2>
-                    <div class="border-meghna"></div>
-                </div>
+                    <h2>About <span class="color"></span> </h2>
+                    <div class=" border-meghna border-meghna-about"></div>
+					<div class="col-lg-12 text-center top wow fadeInUp" data-wow-duration="500ms">
+							<div class="block">
+								<div class="context text-center">
+									 <p>Are you an entrepreneur willing to start a new export activity, a policy maker interested in increasing the competitiveness of your country or just a citizen curious about the cohesion of European Union? No matter who you are, finding your way along the complex, tiny details of European economies can be a hard task. Our dashboards offer intuitive tools to answer complex questions, helping you find the most profitable investment opportunities or simply satisfy your curiosity.</p> 
+									
+								</div>
+							</div>
+						</div>
+					</div>
             </div>
             <!-- /section title -->
+
+
+            <div>IFrame</div>
+            <iframe src="https://dev.fnalab.com/ca/#/demos/tutorials/tutorial10_0" width="100%" height="500" frameborder="0" allowfullscreen>
+              <p> <a href="https://dev.fnalab.com/ca/#/demos/tutorials/tutorial10_0">Fallback link for browsers that don't support iframes</a> </p>
+            </iframe>
+
+
+
 
             
             <!-- About item -->
@@ -176,7 +194,7 @@
                     <!-- Express About Yourself -->
                     <div class="content text-center">
                         <h3 class="ddd">Analyse</h3>
-                          <p>Using state-of-the-art techniques from Network and Data Science we uncover valuable information on the patterns hidden in the data</p>
+                          <p>Using state-of-the-art techniques from Network and Data Science we uncover growth opportunities for entrepreneurs and policy makers</p>
                     </div>
                 </div>
             </div>
@@ -189,8 +207,8 @@
                     </div>
                     <!-- Express About Yourself -->
                     <div class="content text-center">
-                        <h3 class="ddd">Explore</h3>
-                          <p>Taking advantage of the engine of FNA platform we provide interactive visualizations thought to answer at once many different questions</p>
+                        <h3 class="ddd">Deliver</h3>
+                          <p>Taking advantage of the engine of FNA platform we provide interactive visualizations to offer you at a glance all the answers you were looking for</p>
                     </div>
                 </div>
             </div>
@@ -260,7 +278,7 @@
                 <!-- section title -->
                 <div class="title text-center wow fadeInDown">
                     <h2>  Explore  <span class="color">  </span></h2>
-                    <div class="border-meghna"></div>
+                    <div class="border-meghna border-meghna-explore"></div>
                 </div>
             </div>
             <!-- /section title -->
@@ -274,7 +292,7 @@
                     </div>
 
                     <div class="content">
-                        <h3><a href="/explore/multilayer/">Robustness</a></h3>
+                        <h3><a href="/explore/diversification/">Robustness</a></h3>
                         <p>Are you diversified enough? Pumping the export of a single product will not help increase the competitiveness of your country if you don&rsquo;t care about diversification.</p>
 						
                     </div>
@@ -290,8 +308,8 @@
                     </div>
 
                     <div class="content">
-                        <h3><a href="/explore/growth/">Explore. Undestand. Grow.</a></h3>
-                        <p>Why are we caring about International Trade (and we think you should do the same)?</p>
+                        <h3><a href="/explore/swift/">SWIFT</a></h3>
+                        <p>Fallback link for browsers that don&rsquo;t support iframes</p>
 						
                     </div>
                 </div>
@@ -302,12 +320,12 @@
             <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
                 <div class="explore-block">
                     <div class="media-wrapper">
-                        <img src="/images/blog/meghna.png" alt="explore-image" class="img-fluid">
+                        
                     </div>
 
                     <div class="content">
-                        <h3><a href="/explore/installation/">How To Setup Meghna Hugo</a></h3>
-                        <p>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</p>
+                        <h3><a href="/explore/competitiveness/">Explore. Understand. Grow.</a></h3>
+                        <p>What is the most profitable context for a new export activity?</p>
 						
                     </div>
                 </div>
@@ -335,7 +353,7 @@
                 <!-- section title -->
                 <div class="title text-center wow fadeInDown">
                     <h2>  Blog  <span class="color">  </span></h2>
-                    <div class="border-meghna"></div>
+                    <div class="border-meghna border-meghna-blog"></div>
                 </div>
             </div>
             <!-- /section title -->
@@ -349,9 +367,25 @@
                     </div>
 
                     <div class="content">
-                        <h3><a href="/blog/simple-image-post/">Simple Image Post</a></h3>
+                        <h3><a href="/blog/complexity/">Complexity</a></h3>
                         <p></p>
-                        <a class="btn btn-transparent" href="/blog/simple-image-post/">Read more</a>
+                        <a class="btn btn-transparent" href="/blog/complexity/">Read more</a>
+                    </div>
+                </div>
+            </article>
+            <!-- /single blog post -->
+            
+            <!-- single blog post -->
+            <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
+                <div class="post-block">
+                    <div class="media-wrapper">
+                        <img src="/images/blog/blog-post-2.jpg" alt="post-image" class="img-fluid">
+                    </div>
+
+                    <div class="content">
+                        <h3><a href="/blog/comtrade/">Comtrade API</a></h3>
+                        <p>sdfsdfsdfs</p>
+                        <a class="btn btn-transparent" href="/blog/comtrade/">Read more</a>
                     </div>
                 </div>
             </article>
@@ -381,9 +415,41 @@
                     </div>
 
                     <div class="content">
-                        <h3><a href="/blog/installation/">How To Setup Meghna Hugo</a></h3>
+                        <h3><a href="/blog/fna/">FNA</a></h3>
                         <p></p>
-                        <a class="btn btn-transparent" href="/blog/installation/">Read more</a>
+                        <a class="btn btn-transparent" href="/blog/fna/">Read more</a>
+                    </div>
+                </div>
+            </article>
+            <!-- /single blog post -->
+            
+            <!-- single blog post -->
+            <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
+                <div class="post-block">
+                    <div class="media-wrapper">
+                        <img src="/images/blog/meghna.png" alt="post-image" class="img-fluid">
+                    </div>
+
+                    <div class="content">
+                        <h3><a href="/blog/fitness/">Fitness</a></h3>
+                        <p></p>
+                        <a class="btn btn-transparent" href="/blog/fitness/">Read more</a>
+                    </div>
+                </div>
+            </article>
+            <!-- /single blog post -->
+            
+            <!-- single blog post -->
+            <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
+                <div class="post-block">
+                    <div class="media-wrapper">
+                        <img src="/images/blog/blog-post-2.jpg" alt="post-image" class="img-fluid">
+                    </div>
+
+                    <div class="content">
+                        <h3><a href="/blog/rca/">Revealed Comparative Advantage</a></h3>
+                        <p>sdfsdfsdfs</p>
+                        <a class="btn btn-transparent" href="/blog/rca/">Read more</a>
                     </div>
                 </div>
             </article>
@@ -401,15 +467,16 @@
 
 
     
-<!-- Start Our Team -->
-<section id="our-team" class="section">
-    <div class="container">
+<!-- Start Contact Us -->
+<section id="contact-us" class="contact-us section-bg">
+    <div class="container pb-5">
         <div class="row">
             <div class="col-lg-12">
                 <!-- section title -->
-                <div class="title text-center wow fadeInUp" data-wow-duration="500ms">
-                    <h2> Team  <span class="color"></span></h2>
-                    <div class="border-meghna"></div>
+                <div class="title text-center wow fadeIn" data-wow-duration="500ms">
+                    <h2> Get In Touch  <span
+                            class="color"></span></h2>
+                    <div class="border-meghna border-meghna-contact"></div>
                 </div>
             </div>
             <!-- /section title -->
@@ -440,14 +507,15 @@
 
                     <!-- member name & designation -->
                     <div class="member-meta">
-                        <h4>Matteo Neri</h4>
+                        <h4>Matteo</h4>
+                        <h4>Neri</h4>
                         <span>Data Scientist &amp; PhD candidate</span>
                         <p></p>
                     </div>
                 </div>
             </div>
             <!-- end team member -->
-            
+			
             <!-- team member -->
             <div class="col-lg-3 col-md-6 col-12 wow fadeInDown center-team" data-wow-duration="500ms">
                 <div class="team-member">
@@ -473,64 +541,16 @@
 
                     <!-- member name & designation -->
                     <div class="member-meta">
-                        <h4>Federico Musciotto</h4>
+                        <h4>Federico</h4>
+                        <h4>Musciotto</h4>
                         <span>Associate Researcher</span>
                         <p></p>
                     </div>
                 </div>
             </div>
             <!-- end team member -->
-            
-        </div>
-    </div>
-</section>
-<!-- /team -->
+			 
 
-
-
-    
-<!-- Start Contact Us -->
-<section id="contact-us" class="contact-us section-bg">
-    <div class="container pb-5">
-        <div class="row">
-            <div class="col-lg-12">
-                <!-- section title -->
-                <div class="title text-center wow fadeIn" data-wow-duration="500ms">
-                    <h2> Get In Touch  <span
-                            class="color"></span></h2>
-                    <div class="border-meghna"></div>
-                </div>
-            </div>
-            <!-- /section title -->
-
-            <!-- Contact Details -->
-            <div class="contact-info col-lg-6 wow fadeInUp" data-wow-duration="500ms">
-                <h3>Contact Details</h3> 
-                 <p class="text-contact"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci. </p> 
-                <div class="contact-details">
-                    
-                    <div class="con-info clearfix">
-                        <i class="tf-map-pin"></i>
-                        <span>Khaja Road, Bayzid, Chittagong, Bangladesh</span>
-                    </div>
-                    
-                    <div class="con-info clearfix">
-                        <i class="tf-ion-ios-telephone-outline"></i>
-                        <span>Phone: &#43;880-31-000-000</span>
-                    </div>
-                    
-                    <div class="con-info clearfix">
-                        <i class="tf-ion-iphone"></i>
-                        <span>Fax: &#43;880-31-000-000</span>
-                    </div>
-                    
-                    <div class="con-info clearfix">
-                        <i class="tf-ion-ios-email-outline"></i>
-                        <span>Email: hello@meghna.com</span>
-                    </div>
-                    
-                </div>
-            </div>
 
             <!-- Contact Form -->
             <div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
@@ -563,7 +583,6 @@
             </div>
         </div>
     </div>
-
 
     
 </section>

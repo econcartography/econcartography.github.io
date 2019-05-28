@@ -12,21 +12,39 @@
     
     
     <item>
-      <title>Robustness</title>
-      <link>/explore/multilayer/</link>
+      <title>Complexity</title>
+      <link>/blog/complexity/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>/explore/multilayer/</guid>
+      <guid>/blog/complexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness</title>
+      <link>/explore/diversification/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>/explore/diversification/</guid>
       <description>Are you diversified enough? Pumping the export of a single product will not help increase the competitiveness of your country if you don&amp;rsquo;t care about diversification.</description>
     </item>
     
     <item>
-      <title>Simple Image Post</title>
-      <link>/blog/simple-image-post/</link>
+      <title>SWIFT</title>
+      <link>/explore/swift/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>/blog/simple-image-post/</guid>
-      <description></description>
+      <guid>/explore/swift/</guid>
+      <description>Fallback link for browsers that don&amp;rsquo;t support iframes</description>
+    </item>
+    
+    <item>
+      <title>Comtrade API</title>
+      <link>/blog/comtrade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/comtrade/</guid>
+      <description>sdfsdfsdfs</description>
     </item>
     
     <item>
@@ -39,30 +57,39 @@
     </item>
     
     <item>
-      <title>Explore. Undestand. Grow.</title>
-      <link>/explore/growth/</link>
+      <title>Explore. Understand. Grow.</title>
+      <link>/explore/competitiveness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/explore/growth/</guid>
-      <description>Why are we caring about International Trade (and we think you should do the same)?</description>
+      <guid>/explore/competitiveness/</guid>
+      <description>What is the most profitable context for a new export activity?</description>
     </item>
     
     <item>
-      <title>How To Setup Meghna Hugo</title>
-      <link>/blog/installation/</link>
+      <title>FNA</title>
+      <link>/blog/fna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/blog/installation/</guid>
+      <guid>/blog/fna/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How To Setup Meghna Hugo</title>
-      <link>/explore/installation/</link>
+      <title>Fitness</title>
+      <link>/blog/fitness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/explore/installation/</guid>
-      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
+      <guid>/blog/fitness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revealed Comparative Advantage</title>
+      <link>/blog/rca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/rca/</guid>
+      <description>sdfsdfsdfs</description>
     </item>
     
   </channel>

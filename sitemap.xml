@@ -3,12 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/fitness/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/explore/competitiveness/</loc>
   </url>
   
   <url>
     <loc>/explore/diversification/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/rca/</loc>
   </url>
   
   <url>
@@ -20,11 +29,6 @@
     <loc>/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/author/jamica-jock/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
@@ -40,14 +44,7 @@
   </url>
   
   <url>
-    <loc>/author/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/complexity/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <loc>/author/jamica-jock/</loc>
   </url>
   
   <url>
@@ -56,6 +53,11 @@
   
   <url>
     <loc>/author/somrat/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -73,14 +75,6 @@
   
   <url>
     <loc>/blog/fna/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/fitness/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/rca/</loc>
   </url>
   
   <url>

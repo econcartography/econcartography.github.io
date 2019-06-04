@@ -4,8 +4,16 @@
 
 // on scroll, 
 $(document).ready(function(){
+  console.log(window.location.pathname);
+  if (window.location.pathname.split('/')[1]=="explore"){
+    console.log("qua");
+    $('.navigation').addClass('explore-color');
+  } else if (window.location.pathname.split('/')=="blog"){
+    $('.navigation').addClass('blog-color');
+  } else {
+  $('.navigation').removeClass('explore-color');
+  $('.navigation').removeClass('blog-color');
   $(window).on('scroll',function(){
-    // we round here to reduce a little workload
     var exploretop = $('#explore').offset().top-25;
     var blogtop = $('#blog').offset().top-25;
     var gittop = $('#contact-us').offset().top-90;
@@ -26,4 +34,5 @@ $(document).ready(function(){
       $('.navigation').removeClass('git-color');
     }
   });
+  };
 });

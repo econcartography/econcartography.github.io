@@ -13,6 +13,7 @@
 
     <script src="/js/jquery-3.4.1.js"></script>
     <script src="/js/navigation.js"></script>
+    <script src="/js/clickimages.js"></script>
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="An Interactive Exploration of the European Trade Network">
@@ -207,18 +208,27 @@
             
         </div>
     </div>
-    <div class="container-fluid">
-      <div class="wrapper">
+    <div class="container cf7-container">
+      <div id="cf7" class="shadow">
         
-        <div class="sticky">
-                 <p><img class="img-fluid" style='vertical-align: middle;' src=images/about/flow.svg>i</p> 
-        </div>
+          
+             <img class="img-fluid img-about" style='vertical-align: middle;' src=images/about/aggregator.svg> 
+          
         
-        <div class="sticky">
-                 <p><img class="img-fluid" style='vertical-align: middle;' src=images/about/flow.svg>i</p> 
-        </div>
+          
+             <img class="img-fluid img-about opaque" style='vertical-align: middle;' src=images/about/networkScience.svg> 
+          
+        
+          
+             <img class="img-fluid img-about opaque" style='vertical-align: middle;' src=images/about/interactiveViz.svg> 
+          
         
       </div>
+      <p id="cf7_controls">
+          <span class="selected">Extract</span>
+          <span>Analyse</span>
+          <span>Deliver</span>
+      </p>
     </div>
 </section>
 <!-- /about -->

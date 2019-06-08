@@ -21,21 +21,12 @@
     </item>
     
     <item>
-      <title>Competitiveness</title>
+      <title>Trade Competitiveness</title>
       <link>/explore/competitiveness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/explore/competitiveness/</guid>
-      <description>What is the most profitable context for a new export activity?</description>
-    </item>
-    
-    <item>
-      <title>Diversification</title>
-      <link>/explore/diversification/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/explore/diversification/</guid>
-      <description>Are you diversified enough? Pumping the export of a single product will not help increase the competitiveness of your country if you don&amp;rsquo;t care about diversification.</description>
+      <description></description>
     </item>
     
     <item>
@@ -45,15 +36,6 @@
       
       <guid>/blog/rca/</guid>
       <description>How to estimate the strength of a country in the export of a given product?</description>
-    </item>
-    
-    <item>
-      <title>SWIFT</title>
-      <link>/explore/swift/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/explore/swift/</guid>
-      <description>Fallback link for browsers that don&amp;rsquo;t support iframes</description>
     </item>
     
     <item>

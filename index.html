@@ -13,6 +13,7 @@
 
     <script src="/js/jquery-3.4.1.js"></script>
     <script src="/js/navigation.js"></script>
+    <script src="/js/clickimages.js"></script>
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="An Interactive Exploration of the European Trade Network">
@@ -207,18 +208,27 @@
             
         </div>
     </div>
-    <div class="container-fluid">
-      <div class="wrapper">
+    <div class="container cf7-container">
+      <div id="cf7" class="shadow">
         
-        <div class="sticky">
-                 <p><img class="img-fluid" style='vertical-align: middle;' src=images/about/flow.svg>i</p> 
-        </div>
+          
+             <img class="img-fluid img-about opaque" style='vertical-align: middle;' src=images/about/aggregator.svg> 
+          
         
-        <div class="sticky">
-                 <p><img class="img-fluid" style='vertical-align: middle;' src=images/about/flow.svg>i</p> 
-        </div>
+          
+             <img class="img-fluid img-about" style='vertical-align: middle;' src=images/about/networkScience.svg> 
+          
+        
+          
+             <img class="img-fluid img-about" style='vertical-align: middle;' src=images/about/interactiveViz.svg> 
+          
         
       </div>
+      <p id="cf7_controls">
+          <span class="selected">Extract</span>
+          <span>Analyse</span>
+          <span>Deliver</span>
+      </p>
     </div>
 </section>
 <!-- /about -->
@@ -280,19 +290,21 @@
             </div>
             <div class="col-lg-12">
                 <div class="post-single-content">
-					<div class="text-post"><p>Curious about the EU country that has the highest <a class="text-link" href="https://econcartography.eu/blog/rca/">advantage</a> on your export business? Double click on your product and look for the country connected to it with the thickest link. Or maybe you are a policy maker concerned about increasing your country performance on the export market. Then double click on your country and look for the products with the highest <a href="https://econcartography.eu/blog/fitness/">economic sophistication</a>, they are the ones to invest on. But you can also learn about <a href="www.nonesiste.com">EU cohesion</a>, explore all the details of single economies (thanks to <a href="https://ec.europa.eu/eurostat">Eurostat</a> data), and much more.</p></div>
-                    <div class="context text-center">
-                      <img class="img-fluid" src="images/explore/pre-competitiveness.svg">
+					<div class="text-post"><p>Ready for an interactive tour of European trade? Our dashboard displays UN Comtrade data as a network where nodes are countries and products and links are export flows. The size of countries is proportional to their <a href="/blog/fitness" title="The country Fitness is a measure of the country intangible capabilities and it has been proved to be a crucial dimension to forecast growth potential. With non-linear techniques of heterogeneous dynamics we assess the expectation for the future growth of countries. Advancements based on similar techniques have been also tested by the World Bank Group and they are now used extensively to make forecasting of growth in the medium-long period, 5 to 10 years.">fitness</a>, while the size of products is related to their <a href="/blog/fitness" title="The Complexity of a product is a data-driven measure of its level of sophistication. A product has a high complexity if its production requires a large diversity of capabilities.">economic complexity</a>. The thickness of links shows the <a href="/blog/rca" title="The Revealed Comparative Advantage is a measure of the predominance of a country in the export of a product with respect to the average export of that product by all countries.">advantage</a> of a country in the export of a product. Ready to go?</p></div>
+						<div class="button-explore">
+							
+									<a class="explore-link" href="/explore/competitiveness">Start exploring</a>
+						</div>
+                   <div class="context text-center">
+					  <a href="/explore/competitiveness">
+                        <img class="img-fluid" src="images/explore/pre-competitiveness.svg">
+					  </a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <div class="container">
-		<div class="button-explore">
-			
-                    <a class="explore-link" href="/explore/competitiveness">Explore it by yourself</a>
-		</div>
     </div>
     <!-- /single explore dashboard -->
     
